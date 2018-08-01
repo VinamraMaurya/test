@@ -1,0 +1,5 @@
+Linking Backend Project with Frontend Project.
+
+Creting DTO and DAO classes.
+He will start desinging the classes required for our online shopping website.
+Frist create the packages to organize your classes.
